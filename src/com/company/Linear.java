@@ -1,7 +1,5 @@
 package com.company;
 
-import javafx.scene.paint.Stop;
-
 public class Linear {
 
     public static void search(int[] array, int input) {
