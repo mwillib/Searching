@@ -20,6 +20,7 @@ public class Main {
             array[i] = (int) (Math.random()*100);
         }
 
+        //Doing both searches
         Linear.search(array, input);
         Binary.search(array, input);
 
