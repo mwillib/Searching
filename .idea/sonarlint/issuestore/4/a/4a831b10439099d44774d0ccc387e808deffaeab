@@ -1,0 +1,7 @@
+
+[
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ÍÊºìøÿÿÿÿ8äåÁ÷.
+Gsquid:S2140")Use "java.util.Random.nextInt()" instead.(õ‡îŒ8äåÁ÷.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(´º¥„8ù«Í÷.

@@ -16,7 +16,7 @@ public class Binary {
         while (first <= last && !found) {
             mid = (first + last) / 2;
             if (array[mid] == input) {
-                System.out.println(input + " Found");
+                System.out.println(input + " Found at Index " + mid);
                 found = true;
             } else if (array[mid] < input) {
                 first = mid + 1;

@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚ŞÊ¹8™ìÏ÷.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓÛˆ²8ì¦â÷.
+dsquid:UselessImportCheck"4Remove this unused import 'javafx.scene.paint.Stop'.(“áâËøÿÿÿÿ8˜ÊÔ÷.
+Xsquid:S1118":Add a private constructor to hide the implicit public one.(ù•íĞ8ÈÏ´÷.
